@@ -1,0 +1,69 @@
+baseURL = 'https://wakiwaki2922.github.io/'
+languageCode = 'vi-vn'
+title = 'Blog của GiangDQ'
+theme = 'PaperMod'
+
+[params]
+  author = 'GiangDQ'
+  description = 'Blog về lập trình, công nghệ và kinh nghiệm phát triển phần mềm'
+  keywords = ['programming', 'javascript', 'react', 'nodejs', 'web development']
+  
+  defaultTheme = 'auto' # "dark", "light", or "auto"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowToc = true
+  TocOpen = false
+  
+  # Social icons
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/wakiwaki2922"
+  
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/giangdq"
+  
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:contact@example.com"
+
+# Menu configuration
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Trang chủ"
+    url = "/"
+    weight = 1
+    
+  [[menu.main]]
+    identifier = "posts"
+    name = "Bài viết"
+    url = "/posts/"
+    weight = 2
+    
+  [[menu.main]]
+    identifier = "about"
+    name = "Giới thiệu"
+    url = "/about/"
+    weight = 3
+    
+  [[menu.main]]
+    identifier = "archives"
+    name = "Lưu trữ"
+    url = "/archives/"
+    weight = 4
+
+# Taxonomy configuration
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# Markup configuration
+[markup]
+  [markup.highlight]
+    style = 'github'
+    lineNos = true
+    codeFences = true

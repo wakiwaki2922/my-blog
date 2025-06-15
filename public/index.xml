@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Trang Chủ on Blog của GiangDQ</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Trang Chủ on Blog của GiangDQ</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Giới thiệu</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;hey-there-mình-là-giang&#34;&gt;Hey there! Mình là Giang👋&lt;/h1&gt;
+&lt;h2 id=&#34;-về-mình&#34;&gt;👨🏻‍💻 Về mình&lt;/h2&gt;
+&lt;p&gt;💡  Mình đam mê công nghệ, tập trung chủ yếu vào phần cứng và quản trị hệ thống.&lt;br&gt;
+🎓  Hiện tại mình đang học tại Đại học FPT Thành phố Hồ Chí Minh.&lt;br&gt;
+🌱  Mình đang học thêm về Backend Development, DevOps, System Administration và IT Support.&lt;br&gt;
+🔧  Mình thích làm việc với nhiều công nghệ khác nhau, từ phần cứng low-level đến phát triển phần mềm high-level.&lt;br&gt;
+✍️  Thời gian rảnh, mình thích nghe nhạc và khám phá những đổi mới công nghệ phần cứng mới nhất.&lt;br&gt;
+💬  Mình tiếp cận công việc với sự tận tâm, không ngừng nỗ lực học hỏi và phát triển trong lĩnh vực của mình.&lt;br&gt;
+✉️  Bạn có thể gửi email cho mình tại &lt;a href=&#34;mailto:giangdq.01012003@gmail.com&#34;&gt;giangdq.01012003@gmail.com&lt;/a&gt;! Mình sẽ cố gắng phản hồi sớm nhất có thể.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
