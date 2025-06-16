@@ -6,6 +6,21 @@
     <description>Recent content in Posts on Blog của GiangDQ</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>vi-vn</language>
+    <lastBuildDate>Thu, 19 Dec 2024 14:00:00 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hướng dẫn cài đặt và sử dụng FRP (Fast Reverse Proxy)</title>
+      <link>http://localhost:1313/posts/frp-reverse-proxy-guide/</link>
+      <pubDate>Thu, 19 Dec 2024 14:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/frp-reverse-proxy-guide/</guid>
+      <description>Hướng dẫn chi tiết cách cài đặt và cấu hình FRP để expose dịch vụ nội bộ ra Internet thông qua VPS</description>
+    </item>
+    <item>
+      <title>Hướng dẫn tạo Blog với Hugo và Deploy lên GitHub Pages</title>
+      <link>http://localhost:1313/posts/hugo-github-pages-setup/</link>
+      <pubDate>Thu, 19 Dec 2024 10:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/hugo-github-pages-setup/</guid>
+      <description>Hướng dẫn chi tiết từng bước để tạo blog với Hugo và deploy lên GitHub Pages trên Windows</description>
+    </item>
   </channel>
 </rss>

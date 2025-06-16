@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Devops on Blog của GiangDQ</title>
+    <title>DevOps on Blog của GiangDQ</title>
     <link>http://localhost:1313/tags/devops/</link>
-    <description>Recent content in Devops on Blog của GiangDQ</description>
+    <description>Recent content in DevOps on Blog của GiangDQ</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>vi-vn</language>
-    <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 14:00:00 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Docker Cơ Bản: Từ Zero Đến Hero</title>
-      <link>http://localhost:1313/posts/docker-fundamentals/</link>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/docker-fundamentals/</guid>
-      <description>Hướng dẫn toàn diện về Docker từ cơ bản đến nâng cao cho developers</description>
+      <title>Hướng dẫn cài đặt và sử dụng FRP (Fast Reverse Proxy)</title>
+      <link>http://localhost:1313/posts/frp-reverse-proxy-guide/</link>
+      <pubDate>Thu, 19 Dec 2024 14:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/frp-reverse-proxy-guide/</guid>
+      <description>Hướng dẫn chi tiết cách cài đặt và cấu hình FRP để expose dịch vụ nội bộ ra Internet thông qua VPS</description>
     </item>
   </channel>
 </rss>

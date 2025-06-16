@@ -64,6 +64,9 @@ theme = 'PaperMod'
 # Markup configuration
 [markup]
   [markup.highlight]
-    style = 'github'
+    style = 'dracula'  # Thay đổi theme màu cho dễ đọc hơn
     lineNos = true
+    lineNumbersInTable = false
     codeFences = true
+    guessSyntax = true
+    tabWidth = 2
