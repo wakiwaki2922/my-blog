@@ -3,6 +3,9 @@ languageCode = 'vi-vn'
 title = 'Blog của GiangDQ'
 theme = 'PaperMod'
 
+# Disable Google Analytics for now to avoid template errors
+disableKinds = []
+
 [params]
   author = 'GiangDQ'
   description = 'Blog về lập trình, công nghệ và kinh nghiệm phát triển phần mềm'
@@ -16,6 +19,9 @@ theme = 'PaperMod'
   ShowBreadCrumbs = true
   ShowToc = true
   TocOpen = false
+  
+  # Disable Google Analytics to prevent template errors
+  disableGoogleAnalytics = true
   
   # Social icons
   [[params.socialIcons]]
